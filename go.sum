@@ -1,0 +1,4 @@
+github.com/boombuler/barcode v1.0.0 h1:s1TvRnXwL2xJRaccrdcBQMZxq6X7DvsMogtmJeHDdrc=
+github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
+github.com/pquerna/otp v1.1.0 h1:q2gMsMuMl3JzneUaAX1MRGxLvOG6bzXV51hivBaStf0=
+github.com/pquerna/otp v1.1.0/go.mod h1:Zad1CMQfSQZI5KLpahDiSUX4tMMREnXw98IvL1nhgMk=
